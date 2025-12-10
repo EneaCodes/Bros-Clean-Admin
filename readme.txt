@@ -5,7 +5,7 @@ Donate link: https://ko-fi.com/W7W51P4XY6
 Tags: admin, dashboard, clean, ads, elementor, notices, nag, promotions
 Plugin URI: https://github.com/EneaCodes/snippets-bros/clean-admin
 Requires at least: 5.6
-Tested up to: 6.7
+Tested up to: 6.9
 Requires PHP: 7.4
 Stable tag: 1.1.0
 License: GPLv2 or later
@@ -122,3 +122,4 @@ Example:
 
 = 1.1.0 =
 Translations, activation notice, settings link, advanced keyword controls, and performance improvements for a better admin clean-up experience.
+
