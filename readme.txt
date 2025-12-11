@@ -3,7 +3,7 @@ Contributors: Enea
 Author : Enea
 Donate link: https://ko-fi.com/W7W51P4XY6
 Tags: admin, dashboard, clean, ads, elementor, notices, nag, promotions
-Plugin URI: https://github.com/EneaCodes/snippets-bros/clean-admin
+Plugin URI: https://github.com/EneaCodes/clean-admin
 Requires at least: 5.6
 Tested up to: 6.9
 Requires PHP: 7.4
@@ -122,4 +122,5 @@ Example:
 
 = 1.1.0 =
 Translations, activation notice, settings link, advanced keyword controls, and performance improvements for a better admin clean-up experience.
+
 
