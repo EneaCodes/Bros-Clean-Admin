@@ -4,6 +4,12 @@ Bros Clean Admin is a lightweight WordPress plugin that cleans up your wp-admin 
 
 Power users can also define their own custom promo/review keywords to hide, and developers can hook into the keyword lists via simple filters.
 
+## 📸 Screenshot
+
+![Bros Clean Admin Screenshot](https://raw.githubusercontent.com/EneaCodes/Bros-Clean-Admin/main/screenshot-1.png)
+
+*Admin settings page of Bros Clean Admin plugin*
+
 ## ✨ Features
 
 - Hides dashboard promo widgets and sale banners
@@ -22,7 +28,6 @@ Power users can also define their own custom promo/review keywords to hide, and 
 - `clean-admin.php` – main plugin file
 - `brosclad-admin-clean.js` – admin cleaner script
 - `readme.txt` – WordPress.org-style readme (for the plugin directory)
-- [`screenshot-1.png`](https://github.com/EneaCodes/Bros-Clean-Admin/blob/main/screenshot-1.png) – plugin screenshot
 - [`bros-clean-admin-hide-dashboard-ads.zip`](https://github.com/EneaCodes/Bros-Clean-Admin/blob/main/bros-clean-admin-hide-dashboard-ads.zip) – direct plugin download
 - `languages/` *(optional)* – translation files (e.g. `bros-clean-admin.pot`)
 
