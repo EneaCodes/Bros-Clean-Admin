@@ -35,7 +35,7 @@ Power users can also define their own custom promo/review keywords to hide, and 
 
 ### 1. Install from WordPress.org (Recommended)
 
-1. Go to [WordPress.org plugin page](https://wordpress.org/plugins/bros-clean-admin/)
+1. Go to [WordPress.org plugin page](https://wordpress.org/plugins/bros-clean-admin-hide-dashboard-ads/)
 2. Click **"Download Version X.X"**
 3. You'll get: `bros-clean-admin-hide-dashboard-ads.zip`
 4. In your WordPress admin: **Plugins → Add New → Upload Plugin**
